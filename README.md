@@ -42,7 +42,21 @@ This is a personal project to design and develop a website for a family friend's
 | Week 4 | Test, deploy, and gather feedback | ⏳ Upcoming |
 
 ## 📁 Folder Structure
-
+     project_plan/
+     ├── assets/
+     │   ├── images/
+     │   └── icons/
+     ├── css/
+     │   ├── style.css
+     │   └── responsive.css
+     ├── js/
+     │   └── main.js
+     ├── pages/
+     │   ├── rooms.html
+     │   ├── floor-plans.html
+     │   └── contact.html
+     ├── index.html
+     └── README.md
 
 ## 📷 Screenshots (Coming Soon)
 
