@@ -50,9 +50,9 @@ This is a personal project to design and develop a website for a family friend's
      │   ├── style.css
      │   └── responsive.css
      ├── js/
-     │   └── main.js
+     │   └── function.js
      ├── pages/
-     │   ├── rooms.html
+     │   ├── home.html
      │   ├── floor-plans.html
      │   └── contact.html
      ├── index.html
